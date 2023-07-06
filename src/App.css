@@ -27,7 +27,21 @@
 .App-link {
   color: #61dafb;
 }
-
+.error {
+  margin-top: 10px;
+  color: red;
+  font-size: 12px;
+  text-align: left;
+}
+.form-group {
+  margin-bottom: 20px;
+}
+.labels {
+  float: left;
+}
+button {
+  margin-left: 10px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
